@@ -23,6 +23,6 @@ Use the arrow up key to move the turtle to the other side of the street without 
 2. turtle module is also required.
 
 
-### Project link:
+## Project link:
 
 https://anhthiphuongtran.github.io/turtle-crossing-game/
